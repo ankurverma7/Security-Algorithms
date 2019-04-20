@@ -1,0 +1,4 @@
+Service-level agreements have become more important as organizations move their systems, applications and data to the cloud. 
+A cloud SLA ensures that cloud providers meet certain enterprise-level requirements and provide customers with a clearly defined set of deliverables.
+The defined level of servicesychological role in reducing with all chosen SaaS vendors. This includes cloud vendors like Salesforce, Workday and ServiceNow, as well as other IT vendors like Microsoft, SAP or Oracle, that also sell cloud solutions.
+
